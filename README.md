@@ -14,10 +14,9 @@ OOP, multiple classes, class relationships, `datetime`,
 `__str__`, instance state, type hints
 
 ## Example output
+```
 Email sent from Tory to Ramy!
-
 Email sent from Ramy to Tory!
-
 
 Ramy's Inbox:
 
@@ -32,12 +31,8 @@ Received: 2026-06-05 23:35
 Body: Hi Ramy, just saying hello!
 ------------
 
-
 Email deleted.
-
 
 Ramy's Inbox:
 Your inbox is empty.
-
-
-Built with: Python
+```
