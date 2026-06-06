@@ -24,13 +24,13 @@ Ramy's Inbox:
 Your Emails:
 1. [Unread] From: Tory | Subject: Hello | Time: 2026-06-05 23:35
 
---- Email ---
+Email
 From: Tory
 To: Ramy
 Subject: Hello
 Received: 2026-06-05 23:35
 Body: Hi Ramy, just saying hello!
-------------
+
 
 Email deleted.
 
